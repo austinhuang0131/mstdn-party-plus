@@ -4,14 +4,14 @@ The following are not enforced. Nevertheless, for the best experience on the fed
 
 ## Politics
 
-The instance respects free speech [within reasonable, well-established limits](rules.md). However, I still want to dissuade those from constantly repeating political topics, specifically those who seek to reiterate the perceived wrongs of certain political figures or geopolitical forces. Specifically:
+The instance respects free speech [within reasonable, well-established limits](rules.md). However, I still want to dissuade those from constantly repeating political headlines with little substance, specifically those who seek to reiterate the perceived wrongs of certain political figures or geopolitical forces. In particular:
 
 * I intentionally omitted the word "discuss." Many are not encouraging discussions, but exporting outrage to make them and their followers feel good. In some cases, accounts simply post image macros with little effort.
 * It is very unlikely for someone with significantly opposite political opinion to ever see your account. Note, that the vast majority of the instances you can interact with have rules against hate speech, and instances that don't are often suspended.
 * Certain people's attacks of political figures often involve discriminatory rhetorics. Notably, sexist and ableist languages are sometimes used. **This is [punishable](rules.md#no-discrimination).**
 * Certain people's fixation of political figures has been projected onto others who rightfully challenged their opinions, by attacking the commenter and engaging in ad hominem. In extreme cases, some actively seek to annoy those with what they deem as the opposite political opinion. **This is [harassment, and thus punishable](rules.md#no-harassment).**
 
-I encourage you to share your actual experiences, discuss policies, and exactly how to improve people's lives, not [making politics a matter of sport rivalries](https://news.ku.edu/2015/04/13/study-most-partisans-treat-politics-sports-rivalries-instead-focusing-issues).
+It is in the best interest of the community to promote high-quality discussions. Therefore, I encourage you to share your actual experiences, discuss policies, and exactly how to improve people's lives, not [making politics a matter of sport rivalries](https://news.ku.edu/2015/04/13/study-most-partisans-treat-politics-sports-rivalries-instead-focusing-issues).
 
 ## "Reply guy"
 

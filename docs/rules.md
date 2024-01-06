@@ -105,7 +105,7 @@ Individual Twitter-mirroring account will not be blocked under this rule.
 
 ## Language
 
-> You must select the appropriate language for a post.
+> You must select the appropriate language for each post.
 
 See [here](https://fedi.tips/setting-your-language-preferences-on-mastodon-and-filtering-out-posts-in-other-languages/). This is necessary for the proper functioning of the timeline language filter. If a post is in multiple languages, choose one that represents a significant part of the post.
 
