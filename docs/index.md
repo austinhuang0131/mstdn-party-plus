@@ -1,8 +1,8 @@
 # Welcome!
 
-My name is [Austin Huang](https://austinhuang.me) and I perform moderation for both instances on behalf of [Fediverse Communications LLC](https://fediverse.us/). This guide serves as information for prospective and current users on mstdn.party (aka. "Mastodon Party") and mstdn.plus (aka. "MSTDN+"), specifically with regards to moderation and best practices.
+My name is [Austin Huang](https://austinhuang.me) and I perform moderation for both instances on behalf of [Fediverse Communications LLC](https://fediverse.us/). This guide serves as information for prospective and current users on mstdn.party (aka. "Mastodon Party") and mstdn.plus (aka. "MSTDN+"), specifically with regards to moderation and best practices. This is a working document and may be amended at any time without notice.
 
-Last revised January 5, 2024.
+Last revised January 6, 2024.
 
 !!! note
 

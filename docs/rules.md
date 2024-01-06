@@ -32,7 +32,7 @@ The rule is not enforced for avatars and profile banners *for now*, but this is 
 > 1. Nudity and sexually explicit content is prohibited for accounts registered on this instance
 > 2. Violent media must be marked as sensitive when posting
 
-The first rule is not enforced for remote accounts, but this may change in the future, though certain instances that are dedicated to NSFW content are already silenced.
+Remote accounts that post NSFW content, as well as remote instances that mainly host accounts that post NSFW content, will be silenced, however there is no reprecussion in following them.
 
 ## No discrimination
 
@@ -78,9 +78,7 @@ Anything that has been debunked by *proven facts* is fair game. Here the "intent
 
 I do apply quite a lot of leeway in enforcing this rule.
 
-For mstdn.party:
-
-> Bots must be marked as bots in their profile preferences, and automated posts should be unlisted.
+> Bots must be marked as bots in their profile preferences, and automated posts should be unlisted (exceptions apply).
 
 Any accounts that produce automated posts and do not plan to manually respond to replies are considered "bots" here.
 
@@ -90,8 +88,6 @@ Automated posts should be unlisted, but to not create additional workload or dis
 * are bridges of their own accounts on other platforms (that is not ActivityPub).
 
 This applies to remote accounts as well (to lesser extent). For example, I limit `bots.krohsnest.com` as weather forecasts of specific locations are not in *general* public interest, though users who may still follow each account manually.
-
-The rule for mstdn.plus is practically suspended and I enforce mstdn.party's rule on both instances for the moment. This will very likely change in the future.
 
 ## No Twitter bridges
 
@@ -109,13 +105,13 @@ Individual Twitter-mirroring account will not be blocked under this rule.
 
 ## Language
 
-This rule is written on mstdn.plus only, but it applies to both instances:
+> You must select the appropriate language for a post.
 
-> Posts should be in English, posts in other languages should be set as such on the post language selector, but if you primarily post in another language there are plenty of other regional instances that might work for you better.
+See [here](https://fedi.tips/setting-your-language-preferences-on-mastodon-and-filtering-out-posts-in-other-languages/). This is necessary for the proper functioning of the timeline language filter. If a post is in multiple languages, choose one that represents a significant part of the post.
 
-Please do declare the proper language for posts, though I will only enforce this if reported.
+I will only enforce this if reported.
 
-I am not against non-English accounts using either instance, but regional instances is very likely to work for you better. Note that I can moderate *some* foreign languages (I interact with Chinese, Japanese and French accounts on my main).
+I am not against non-English accounts using either instance, but regional instances is very likely to work out for you better. Note that I can moderate *some* foreign languages (I interact with Chinese, Japanese and French accounts on my main).
 
 ## No spam
 
@@ -123,7 +119,7 @@ I am not against non-English accounts using either instance, but regional instan
 
 Spam includes excessive posts, favourites/boosts, and reports. "Abuse of network features" include sockpuppeting (posting the same content on multiple ActivityPub accounts), intentional disrespect of user features (using typos to bypass keyword filters), automated block detection, etc.
 
-Business accounts are permitted, provided that they are created by the firm themselves (no SEO) and respect [posting limits](#bots).
+Business accounts are permitted, provided that they are created by the firm themselves (no SEO) and post at reasonable frequencies.
 
 ## Mastodon Server Covenant
 

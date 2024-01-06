@@ -8,7 +8,7 @@ The instance respects free speech [within reasonable, well-established limits](r
 
 * I intentionally omitted the word "discuss." Many are not encouraging discussions, but exporting outrage to make them and their followers feel good. In some cases, accounts simply post image macros with little effort.
 * It is very unlikely for someone with significantly opposite political opinion to ever see your account. Note, that the vast majority of the instances you can interact with have rules against hate speech, and instances that don't are often suspended.
-* Certain people's attacks political figures often involve discriminatory rhetorics. Notably, sexist and ableist languages are sometimes used. **This is [punishable](rules.md#no-discrimination).**
+* Certain people's attacks of political figures often involve discriminatory rhetorics. Notably, sexist and ableist languages are sometimes used. **This is [punishable](rules.md#no-discrimination).**
 * Certain people's fixation of political figures has been projected onto others who rightfully challenged their opinions, by attacking the commenter and engaging in ad hominem. In extreme cases, some actively seek to annoy those with what they deem as the opposite political opinion. **This is [harassment, and thus punishable](rules.md#no-harassment).**
 
 I encourage you to share your actual experiences, discuss policies, and exactly how to improve people's lives, not [making politics a matter of sport rivalries](https://news.ku.edu/2015/04/13/study-most-partisans-treat-politics-sports-rivalries-instead-focusing-issues).
@@ -33,7 +33,8 @@ To prevent being seen as a "reply guy," consider:
 
 * Would your reply really be helpful to them? Would your reply really be helpful to a neutral third party? Are you really acting in good faith? (See also [rule on harassment](rules.md#no-harassment).)
 * Check out the other replies of the post. Have the question already been answered?
-* Have some humility. Your opinion is not superior to others, and the society can only improve if we synergize our opinions through compromise, not by coercion.
+* Check out the other posts of the author. Do you really know more than them?
+* Have some humility. Do not assume that your opinion is superior to others.
 
 ## Content Warning
 
@@ -50,3 +51,12 @@ While content warning is a useful feature to ensure personal well-being, discuss
     See [here](https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/howtoalttext/) for how to add alt text onto attachments.
 
 Alternative text is not just essential for screen readers used by people with disabilities, but sometimes even one without may struggle to understand what to focus on. Also, adding alt text lets you reconsider whether writing the post is necessary.
+
+## Tips for Exposure
+
+If you want to have more people discover your account, consider the following:
+
+* There are toggleable settings in Preferences => Public Profile => Privacy & Reach.
+* Outside of Mastodon itself, there are public user directories like [Trunk](https://communitywiki.org/trunk) or [fediverse.info](https://fediverse.info/explore/people).
+* Use hashtags!
+* Follow relevant hashtags and interact with other users.
