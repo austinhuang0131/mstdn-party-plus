@@ -1,0 +1,15 @@
+site_name: mstdn.party / mstdn.plus Moderation Information
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+nav:
+  - index.md
+  - rules.md
+  - best-practices.md
+  - misc.md
+  - federation.md
