@@ -38,9 +38,9 @@ Remote accounts that post NSFW content, as well as remote instances that mainly 
 
 > No racism, sexism, homophobia, transphobia, xenophobia, or casteism
 
-This rule is written as it is on mastodon.social as well as many other generalist instances. The exclusion of any specific term is not intentional, and bad faith attempts to challenge the exact terminology **are** considered to be in violation of the rule.
+This rule is written as it is on mastodon.social as well as many other generalist instances. The omission of any specific term is not intentional, and bad faith attempts to challenge the exact terminology **are** considered to be in violation of the rule.
 
-Please do not report posts solely because you *disagree* with them; I only remove posts if *it is clear* from the post itself, as well as any context provided to me (primarily through report details), that the rule is violated.
+Please do not report posts solely because you *disagree* with them (especially regarding geopolitical matters); I only remove posts if *it is clear* from the post itself, as well as any context provided to me (primarily through report details), that the rule is violated.
 
 ## No incitement of violence
 
@@ -56,7 +56,7 @@ This often overlaps with the rule above, but note that this rule has no quantifi
 
 This rule is written as it is on mastodon.social as well as many other generalist instances.
 
-[Subtooting](https://www.urbandictionary.com/define.php?term=subtoot) in bad faith (in particular, with the intent to ridicule or insult the person depicted, or to damage a person's reputation) **is** generally considered harassment (there are very few exceptions). If a person's behaviour is suspected to violate a rule, then please *report* them.
+[Subtooting](https://www.urbandictionary.com/define.php?term=subtoot) in bad faith (in particular, with the intent to ridicule or insult the person depicted) **is** considered harassment. If a person's behaviour is suspected to violate a rule, then please *report* them. Warning others of a remote account's undesirable behaviour (as mainly determined by the rules of this instance), if such behaviour is unaddressed by the remote instance, is generally not considered "in bad faith," but this is determined on a case-by-case basis.
 
 Character assassination against those who reply due to disagreement **is** harassment. Debate the argument, not the debaters.
 
@@ -72,11 +72,9 @@ You're well aware of what the most common illegal content are; I should not need
 
 > Do not share intentionally false or misleading information
 
-Anything that has been debunked by *proven facts* is fair game. Here the "intentionally" matters; in an armed conflict, for example, the absence of neutral fact-checking means most things are speculations and thus neither one who casts doubt on those speculations, nor one who reiterates them is, by itself, violating *this* rule (though an armed conflict is likely not a neutral example as those to engage in either may violate other rules).
+Anything that has been debunked by *proven facts* is fair game. Here the "intentionally" matters; in an armed conflict, for example, the absence of neutral fact-checking means most things are speculations and thus neither one who casts doubt on those speculations, nor one who reiterates them is, by itself, violating *this* rule (though an armed conflict is likely not a neutral example as those who engage in either often violate other rules in the process).
 
 ## Bots
-
-I do apply quite a lot of leeway in enforcing this rule.
 
 > Bots must be marked as bots in their profile preferences, and automated posts should be unlisted (exceptions apply).
 

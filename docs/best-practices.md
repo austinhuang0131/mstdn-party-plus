@@ -1,6 +1,6 @@
 # Best Practices
 
-The following are not enforced. Nevertheless, for the best experience on the fediverse, you *should* do these:
+To improve everyone's experience on the fediverse, I ask you to consider the following. Note that they are not rules and will not result in moderation decisions more severe than a warning (unless in cases where they overlap with the rules), but following various advice below will likely improve how others view your account.
 
 ## Politics
 
@@ -31,7 +31,7 @@ The terms are quite subjective and thus it is not a workable definition for mode
 
 To prevent being seen as a "reply guy," consider:
 
-* Would your reply really be helpful to them? Would your reply really be helpful to a neutral third party? Are you really acting in good faith? (See also [rule on harassment](rules.md#no-harassment).)
+* Would your reply really be helpful to them? Would your reply really be seen as helpful to them by a neutral third party? Are you really acting in good faith? (See also [rule on harassment](rules.md#no-harassment).)
 * Check out the other replies of the post. Have the question already been answered?
 * Check out the other posts of the author. Do you really know more than them?
 * Have some humility. Do not assume that your opinion is superior to others.
@@ -50,13 +50,20 @@ While content warning is a useful feature to ensure personal well-being, discuss
 
     See [here](https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/howtoalttext/) for how to add alt text onto attachments.
 
-Alternative text is not just essential for screen readers used by people with disabilities, but sometimes even one without may struggle to understand what to focus on. Also, adding alt text lets you reconsider whether writing the post is necessary.
+Alternative text is expected to give a description of a picture or a video to someone who may not be able to see or hear everything. It should **not** be a reiteration of your post content.
+
+Alt text is not just essential for screen readers used by people with disabilities, but sometimes even one without may struggle to understand what to focus on. Also, adding alt text lets you reconsider whether writing the post is necessary.
 
 ## Tips for Exposure
+
+!!! note
+
+    Your bio is searchable if you have opted into the user directory, but hashtags don't particularly improve your profile's exposure. Note that certain platforms (such as bots that read `#nobot` hashtags, as well as [fediverse.info](https://fediverse.info/explore/people)) do make use of hashtags in bio.
 
 If you want to have more people discover your account, consider the following:
 
 * There are toggleable settings in Preferences => Public Profile => Privacy & Reach.
 * Outside of Mastodon itself, there are public user directories like [Trunk](https://communitywiki.org/trunk) or [fediverse.info](https://fediverse.info/explore/people).
-* Use hashtags!
+* Use hashtags to allow people to better find your post (but please be mindful and not use hashtags excessively; also, for accessibility purposes, please use [CamelCase](https://en.wikipedia.org/wiki/Camel_case) for hashtagging phrases).
 * Follow relevant hashtags and interact with other users.
+* Consider writing a [public](https://docs.joinmastodon.org/user/posting/#privacy) introduction post, indicating your interests in hashtags. Remember to include `#introduction` and pin the post as well!
