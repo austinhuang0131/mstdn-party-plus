@@ -42,7 +42,7 @@ This rule is written as it is on mastodon.social as well as many other generalis
 
 Please do not report posts solely because you *disagree* with them (especially regarding geopolitical matters); I only remove posts if *it is clear* from the post itself, as well as any context provided to me (primarily through report details), that the rule is violated.
 
-On advice of [IFTAS](https://about.iftas.org/2024/01/30/targeted-misgendering-and-deadnaming-in-the-fediverse/), it should be clarified that intentional misgendering, deadnaming, or promotion of so-called "conversion therapy" is considered transphobia and thus is infringing the above rule. Here "intentional" means that in context, either the author has already been explicitly informed of the subject's correct pronouns, or a *reasonable person* would be aware of the subject's pronouns. 
+On advice of [IFTAS](https://about.iftas.org/2024/01/30/targeted-misgendering-and-deadnaming-in-the-fediverse/), it should be clarified that intentional misgendering or deadnaming, as well as promotion of so-called "conversion therapy" is considered transphobia and thus is infringing the above rule. Here "intentional" means that in context, either the author has already been explicitly informed of the subject's correct pronouns/name, or a *reasonable person* would be aware of the subject's correct pronouns/name (for example, if they are already indicated on the profile, pinned posts, or the posts that were being replied to). If the author is replying directly to the subject, then it is also harassment. 
 
 ## No incitement of violence
 
