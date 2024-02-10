@@ -28,8 +28,7 @@ Due to historical issues, some instances did apply blocks on us. Most of them in
 
 The following blocks should be noted:
 
-* `mastodon.art` still limits mstdn.party and, despite my effort to reach out, I still have not received a response. The block reason itself is no longer valid; those concerns were dealt with back in mid-2023.
-* `weirder.earth` suspends both mstdn.party and mstdn.plus, along with many other generalist instances. Due to past experience, I suspect they do not read emails and thus will not work towards resolving it.
+* `mastodon.art` still limits mstdn.party and, despite my effort to reach out, I still have not received a response (update: one mod was reached privately and it appears that the team refuses to respond to me). The block reason itself is no longer valid; those concerns were dealt with back in mid-2023.
 
 !!! warning
 
