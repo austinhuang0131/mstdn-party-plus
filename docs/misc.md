@@ -16,26 +16,33 @@ Please note that I use the word "block" for all instance-specific restrictions, 
 
     [mstdn.party suspends Twitter bridges.](rules.md#no-twitter-bridges)
 
-Most of the blocks were sourced from some reputable blocklists during mid-2023. Some manual inspection was done, so the lists were not blindly imported. However, note that I did not perform all the blocks; some were done by Jonah prior to me becoming administrator.
+!!! note
 
-I do not *actively* search for instances to block. However, if a problematic instance is brought to my attention through a report or through someone I interact with in the community, then I will act upon it. In general, I am not willing to suspend instances *en masse*, as there is a necessity to preserve personal connections, and fediverse culture differs across languages.
+    mstdn.party only: Instances that were subjected to the spam wave in mid-February 2024 are limited. They are appealable on admin demand or community confirmation of resolution.
+
+Most of the blocks were sourced from Oliphant Tier 0 during mid-2023. Some manual inspection was done, so the lists were not blindly imported. However, note that I did not perform all the blocks; a minority of them was done by Jonah.
+
+I do not *actively* search for instances to block. However, if a problematic instance is brought to my attention through a report or through someone I interact with in the community, then I will act upon it.
 
 I am willing to re-evaluate blocks; please contact me with *a good reason*.
 
 ### Blocks that we receive
 
-Due to historical issues, some instances did apply blocks on us. Most of them involving *non-private* instances have been resolved by the end of 2023. There are very few instances that chose to continue blocking us after intervention, but I deem their reasonings valid and thus will not act further on those.
-
-The following blocks should be noted:
-
-* `mastodon.art` still limits mstdn.party and, despite my effort to reach out, I still have not received a response (update: one mod was reached privately and it appears that the team refuses to respond to me). The block reason itself is no longer valid; those concerns were dealt with back in mid-2023.
+Before my tenure, there was about 2 months of administrative vacuum for both instances, during which [this incident](https://weirder.earth/@RadiantEmber/109764330467479323) (referred to as (\*) in the table below; the account has been removed on the first day of my tenure) occured, which resulted in some instances defederating us. On my request, the vast majority of these defederations have been undone, however some still remain. Hereby I provide a list of non-private instances that I have attempted to contact but received either no response or inactionable responses, in order to provide transparency to local users as well as to defend against other instances that may be blindly importing blocklists.
 
 !!! warning
 
-    This is provided for your reference. You may kindly remind their admins of the matter, but attempts to harass them will be dealt with appropriately.
+    For instances that are irresponsive, you may kindly remind their admins of the matter, but attempts to harass them will be punished appropriately.
+
+| Instance | On mstdn.party | On mstdn.plus | Note |
+| -- | -- | -- | -- |
+| **cathode.church** | Limit | Limit | Response: "In line with other large general-purpose instances full of people moving directly from Twitter/FB and using it the same way, we don't really want our federated timeline full of that, or the reply-guying that often comes with it." Although the Best Practices page now (ie. after discussion) include [a section on "reply guy" behaviour](best-practices.md#reply-guy) which has been informally enforced, as I've written on that page, it is not practical to codify it as a rule. Deemed inactionable. |
+| **colorid.es** | Limit? | Suspend | Asks for politics to be under CW and images to be credited. Deemed inactionable under current circumstances; for CW see [here](best-practices.md#content-warning). I accept their reasoning (in fact I strongly suggest you to do so), but their participation in The Bad Space means their precise reasoning will very likely be overlooked, hence it is noted here. |
+| freethought.online | Suspend | | Sent a report regarding (\*) back in February 2023. Admin email & account contacted; irresponsive. |
+| **mastodon.art** | Limit | | Admin email & account contacted; irresponsive. Contacted a staff member personally, response: "I asked them if they would like to receive your message in case the earlier misses were simple mistakes. If they do want to talk, they or I will get back to you." No response thereafter. The reason to limit was "Admin AWOL? Federates with pieville, poor moderation," all of which has been addressed; see above. |
+| weirder.earth | Suspend | Suspend | Likely due to (\*). Response: "we [...] have come to the conclusion that our moderation policies are incompatible. This is not somethign [sic.] we will elaborate on further." Inactionable. |
 
 ### Threads
 
 See [here](https://fediverse.neat.pub/2023/07/10/threads/) for Jonah's decision.
-
 

@@ -38,7 +38,7 @@ To prevent being seen as a "reply guy," consider:
 
 ## Content Warning
 
-While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that it actually drove people out of the fediverse. As such, we believe that it is best that we do not police it beyond the universal NSFW content. However, I ask you to:
+While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that it actually drove people out of the fediverse. An overly-broad CW policy may also harm, rather than benefit, marginalized communities (whose entire experience can be considered "politics"). As such, we believe that it is best that we do not police it beyond the universal NSFW content. However, I ask you to:
 
 1. Consider your target audience, and respect their norms (instance about page is a good starting point);
 2. Mention hashtags or keywords in the post so that people can [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) them without muting your entire account;
