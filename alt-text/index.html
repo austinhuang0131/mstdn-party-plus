@@ -335,9 +335,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#examples" class="md-nav__link">
+  <a href="#recommendations" class="md-nav__link">
     <span class="md-ellipsis">
-      Examples
+      Recommendations
     </span>
   </a>
   
@@ -347,6 +347,15 @@
   <a href="#motivation" class="md-nav__link">
     <span class="md-ellipsis">
       Motivation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-timeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation Timeline
     </span>
   </a>
   
@@ -387,9 +396,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#examples" class="md-nav__link">
+  <a href="#recommendations" class="md-nav__link">
     <span class="md-ellipsis">
-      Examples
+      Recommendations
     </span>
   </a>
   
@@ -399,6 +408,15 @@
   <a href="#motivation" class="md-nav__link">
     <span class="md-ellipsis">
       Motivation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-timeline" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implementation Timeline
     </span>
   </a>
   
@@ -422,13 +440,24 @@
 <h1 id="alt-text-rule-proposal">Alt Text Rule Proposal</h1>
 <p>The administration seeks to implement a new rule mandating the use of alternative text (aka. "image descriptions") on posts. The current proposed wording is:</p>
 <div class="admonition note">
-<p>Use of alt text, in good faith, is required for any public post that contains media.</p>
+<p>In general, the use of alt text, in good faith, is required for any public post that contains media.</p>
 </div>
 <p>By "in good faith" it means that the alt text should be <em>intended</em> to accurately describe the image; in other words, one may not "cheat" the rule by putting irrelevant content as alt text (for example: text solely intended for SEO, file names, etc.). The rule is not intended to introduce an explicit criteria on the quality of the alt text, though good practices are to be recommended.</p>
+<p>If the post content already describes the image, or if the image is a textual reiteration of parts of the post content (eg. it simply reiterates the title of the addressed subject), then the use of alt text is optional.</p>
 <p>The rule does not apply to posts with follower-only or mention-only visibilities. The rule is not to be actively enforced on replies, except those intended to reach a wider audience than solely the addressed.</p>
-<p>Exceptions to the rule can be considered in situations where compliance can be especially difficult, eg. in case of disability. The administration will try to infer those exceptions, but it may be necessary to declare them explicitly.</p>
-<h2 id="examples">Examples</h2>
-<p>(To be determined.)</p>
+<p>Exceptions to the rule can be considered in situations where compliance may introduce an undue burden, eg. in case of disability. The administration will try to infer those exceptions, but it may be necessary to declare them explicitly.</p>
+<h2 id="recommendations">Recommendations</h2>
+<p>For example, in <a href="https://mstdn.party/@benbloodworth/112044379936996494">this post</a>, the content is</p>
+<blockquote>
+<p>New neighbors are moving in.</p>
+</blockquote>
+<p>whose first image accompagnies the following alt text:</p>
+<blockquote>
+<p>A male eastern bluebird perched on the roof of a bluebird house with a piece of straw in his mouth.</p>
+</blockquote>
+<p>Not only the alt text accurately describes the image, it also gives enough context to people even without seeing the image: the "new neighbours" refer to Eastern bluebirds, and bringing straws to a bluebird house would be "moving in." </p>
+<hr />
+<p>In cases where an object is difficult to describe (such as abstract art), naming the object and describing its general shape or colours may suffice.</p>
 <h2 id="motivation">Motivation</h2>
 <p>The rule is intended to:</p>
 <ul>
@@ -436,6 +465,13 @@
 <li>encourage users to think about accessibility, specifically to allow all users to be able to understand the meaning conveyed in a post (be it through screen reader or additional context);</li>
 <li>promote readers' freedom, since alt texts are considered post content and is indexed for searching (if user has <a href="https://fedi.tips/how-do-i-opt-into-or-out-of-full-text-search-on-mastodon/">opted in</a>) and <a href="https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/">filtering</a>, which may help authors reach their intended audience;</li>
 <li>discourage mirroring accounts on other platform, as well as SEO usage.</li>
+</ul>
+<h2 id="implementation-timeline">Implementation Timeline</h2>
+<p>After the end of consultation, the rule will be implemented in the following timeline:</p>
+<ul>
+<li>The rule will be announced and added to the ruleset.</li>
+<li>1 week after the above, reminders (in the form of moderation warnings) will be sent out for non-compliance.</li>
+<li>2 weeks after the above, repeated non-compliance without informing the administration will result in account limits.</li>
 </ul>
 
 
