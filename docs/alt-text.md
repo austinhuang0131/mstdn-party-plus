@@ -14,21 +14,23 @@ The rule does not apply to posts with follower-only or mention-only visibilities
 
 Exceptions to the rule can be considered in situations where compliance may introduce an undue burden, eg. in case of disability. The administration will try to infer those exceptions, but it may be necessary to declare them explicitly.
 
+Generally, the enforcement would be dependent on the post's intended reach; that is, personal ramblings is unlikely to be as actively enforced as opinions on popular subjects, for example.
+
 ## Recommendations
 
-For example, in [this post](https://mstdn.party/@benbloodworth/112044379936996494), the content is
+!!! tip
 
-> New neighbors are moving in.
+    For example, in [this post](https://mstdn.party/@benbloodworth/112044379936996494), the content is
 
-whose first image accompagnies the following alt text:
+    > New neighbors are moving in.
 
-> A male eastern bluebird perched on the roof of a bluebird house with a piece of straw in his mouth.
+    whose first image accompagnies the following alt text:
 
-Not only the alt text accurately describes the image, it also gives enough context to people even without seeing the image: the "new neighbours" refer to Eastern bluebirds, and bringing straws to a bluebird house would be "moving in." 
+    > A male eastern bluebird perched on the roof of a bluebird house with a piece of straw in his mouth.
 
----
+    Not only the alt text accurately describes the image, it also gives enough context to people even without seeing the image: the "new neighbours" refer to Eastern bluebirds, and bringing straws to a bluebird house would be "moving in." 
 
-In cases where an object is difficult to describe (such as abstract art), naming the object and describing its general shape or colours may suffice.
+See [Alt Text Hall of Fame](https://alttexthalloffame.org/en/) for advanced examples.
 
 ## Motivation
 
@@ -45,4 +47,14 @@ After the end of consultation, the rule will be implemented in the following tim
 
 * The rule will be announced and added to the ruleset.
 * 1 week after the above, reminders (in the form of moderation warnings) will be sent out for non-compliance.
-* 2 weeks after the above, repeated non-compliance without informing the administration will result in account limits.
+* 2 weeks after the above, unjustified explicit refusal to comply will result in account limits.
+
+---
+
+## In Chinese
+
+本站近期计划出台一项新规：发送带有图像或视频的公开帖子，须使用替代文本（又称图像描述）来描述图片内容。
+
+请注意，本规则的意义不在于制定一个标准。管理员在意的是替代文本的目的，而不是写得有多好。
+
+关于怎样合理描述一个图片，可参考 [Alt Text Hall of Fame](https://alttexthalloffame.org/en/) （英语）。
