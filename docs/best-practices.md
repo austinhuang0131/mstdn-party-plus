@@ -8,8 +8,8 @@ The instance respects free speech [within reasonable, well-established limits](r
 
 * I intentionally omitted the word "discuss." Many are not encouraging discussions, but exporting outrage to make them and their followers feel good. In some cases, accounts simply post image macros with little effort.
 * It is very unlikely for someone with significantly opposite political opinion to ever see your account. Note, that the vast majority of the instances you can interact with have rules against hate speech, and instances that don't are often suspended.
-* Certain people's attacks of political figures often involve discriminatory rhetorics. Notably, sexist and ableist languages are sometimes used. **This is [punishable](rules.md#no-discrimination).**
-* Certain people's fixation of political figures has been projected onto others who rightfully challenged their opinions, by attacking the commenter and engaging in ad hominem. In extreme cases, some actively seek to annoy those with what they deem as the opposite political opinion. **This is [harassment, and thus punishable](rules.md#no-harassment).**
+* Certain people's attacks of political figures often involve discriminatory rhetorics. Notably, sexist and ableist languages are sometimes used. **[This falls under discrimination.](rules.md#no-discrimination)**
+* Certain people's fixation of political figures has been projected onto others who rightfully challenged their opinions, by attacking the commenter and engaging in ad hominem. In extreme cases, some actively seek to annoy those with what they deem as the opposite political opinion. **[This falls under harassment.](rules.md#no-harassment)**
 
 I encourage you to share your actual experiences, discuss policies, and propose ways to improve people's lives, not [making politics a matter of sport rivalries](https://news.ku.edu/2015/04/13/study-most-partisans-treat-politics-sports-rivalries-instead-focusing-issues). Please remember that many people are here to escape Twitter even before Elon Musk happened, and making the fediverse another Twitter is against the best interest of the community.
 
