@@ -1,6 +1,10 @@
 # Best Practices
 
-To improve everyone's experience on the fediverse, I ask you to consider the following. Note that they are not rules and will not result in moderation decisions more severe than a warning (unless in cases where they overlap with the rules), but following various advice below will likely improve how others view your account.
+To improve everyone's experience on the fediverse, I ask you to consider the following. Applying various advice below will likely improve how others view your account and the instances as a whole.
+
+!!! warning
+
+    Those are not part of the rules, but in some cases they can be enforced.
 
 ## Politics
 
@@ -19,7 +23,7 @@ I encourage you to share your actual experiences, discuss policies, and propose 
 
     Some references are borrowed from [here](https://maria-antoniak.github.io/2023/07/04/notes-on-mastodon.html); I recommend you to read through it.
 
-!!! warning
+!!! tip
 
     ActivityPub's decentralized nature requires you to open a post in its original instance in order to see all the replies of the post. On the web UI, it's called "open original page."
 
@@ -36,6 +40,10 @@ To prevent being seen as a "reply guy," consider:
 * Check out the other posts of the author. Do you really know more than them?
 * Have some humility. Do not assume that your opinion is superior to others.
 
+!!! warning
+
+    Subject to severity, non-compliance to the above may result in a warning. Repeated or explicit non-compliance may result in a limit.
+
 ## Content Warning
 
 While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that it actually drove people out of the fediverse. An overly-broad CW policy may also harm, rather than benefit, marginalized communities (whose entire experience can be considered "politics"). As such, we believe that it is best that we do not police it beyond the universal NSFW content. However, I ask you to:
@@ -46,13 +54,37 @@ While content warning is a useful feature to ensure personal well-being, discuss
 
 ## Alternative text
 
-!!! tip
+!!! info
 
     See [here](https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/howtoalttext/) for how to add alt text onto attachments.
 
-Alternative text is expected to give a description of a picture or a video to someone who may not be able to see or hear everything. It should **not** be a reiteration of your post content.
+Alternative text is expected to give a description of a picture or a video to someone who may not be able to see or hear everything. It should **not** be a reiteration of your post content (unless the post content sufficiently describes the media), additional commentary, or a placeholder.
 
-Alt text is not just essential for screen readers used by people with disabilities, but sometimes even one without may struggle to understand what to focus on. Also, adding alt text lets you reconsider whether writing the post is necessary.
+Good alt text is essential for people, especially those with disabilities, who use screen readers or require additional context to consume content. Also, adding alt text allows you to reflect on your post before sending it, and since alt text is searchable, it allows for better reach for your content.
+
+See [Alt Text Hall of Fame](https://alttexthalloffame.org/en/) for examples on how to write a good alt text.
+
+!!! tip
+
+    For example, in [this post](https://mstdn.party/@benbloodworth/112044379936996494), the content is
+
+    > New neighbors are moving in.
+
+    whose first image accompagnies the following alt text:
+
+    > A male eastern bluebird perched on the roof of a bluebird house with a piece of straw in his mouth.
+
+    Not only the alt text accurately describes the image, it also gives enough context to people even without seeing the image: the "new neighbours" refer to Eastern bluebirds, and bringing straws to a bluebird house would be "moving in." 
+
+In cases where you may require assistance in writing the appropriate alt text, you may use the `#Alt4Me` hashtag.
+
+!!! warning
+
+    The administration (and solely the administration) reserves the right to enforce the above on any user that it sees fit. If exercised, non-compliance will result in a reminder, and explicit unjustified refusal to comply will result in a limit. In general, this is to be exercised on accounts that post to local timeline in high frequency.
+
+!!! warning
+
+    When encountering a post that does not contain alt text, one should either kindly provide one or signal it with `#Alt4Me`. Any attempt at harassing the author will be dealt with under [harassment](rules.md#no-harassment), [discrimination](rules.md#no-discrimination) or both.
 
 ## Tips for Exposure
 
