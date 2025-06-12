@@ -1,0 +1,918 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../prologue/">
+      
+      
+        <link rel="next" href="../how-to-follow/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.3">
+    
+    
+      
+        <title>Should I use Mastodon? - User Guide for mstdn.party / mstdn.plus</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.50c56a3b.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#should-i-use-mastodon" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="User Guide for mstdn.party / mstdn.plus" class="md-header__button md-logo" aria-label="User Guide for mstdn.party / mstdn.plus" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            User Guide for mstdn.party / mstdn.plus
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Should I use Mastodon?
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="User Guide for mstdn.party / mstdn.plus" class="md-nav__button md-logo" aria-label="User Guide for mstdn.party / mstdn.plus" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    User Guide for mstdn.party / mstdn.plus
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Welcome!
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Another Guide to Mastodon
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Another Guide to Mastodon
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../prologue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prologue: Welcome!
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Should I use Mastodon?
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Should I use Mastodon?
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#reasons-to-use-mastodon" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reasons to use Mastodon
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Reasons to use Mastodon">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#you-want-to-interact-with-others" class="md-nav__link">
+    <span class="md-ellipsis">
+      You want to interact with others
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-are-open-minded-and-want-to-learn" class="md-nav__link">
+    <span class="md-ellipsis">
+      You are open-minded and want to learn
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-have-strong-interests-and-want-to-see-contents-relevant-to-them" class="md-nav__link">
+    <span class="md-ellipsis">
+      You have strong interests, and want to see contents relevant to them
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reasons-to-not-use-mastodon" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reasons to not use Mastodon
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Reasons to not use Mastodon">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#you-rely-on-network-effect-andor-monetization" class="md-nav__link">
+    <span class="md-ellipsis">
+      You rely on network effect and/or monetization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-only-follow-and-not-post" class="md-nav__link">
+    <span class="md-ellipsis">
+      You only follow and not post
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-want-to-act" class="md-nav__link">
+    <span class="md-ellipsis">
+      You want to act
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#some-discussions-on-others-arguments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Some discussions on others' arguments
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Some discussions on others' arguments">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#non-commercial" class="md-nav__link">
+    <span class="md-ellipsis">
+      Non-commercial
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#no-algorithm" class="md-nav__link">
+    <span class="md-ellipsis">
+      "No algorithm"
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#moderation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Moderation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#privacy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Privacy
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how-to-follow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to follow people and content?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../best-practices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Best Practices
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Instance-specific information
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Instance-specific information
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rules/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rules and Enforcement Guidelines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../misc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Miscellaneous
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../federation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    For other federating instances
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#reasons-to-use-mastodon" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reasons to use Mastodon
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Reasons to use Mastodon">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#you-want-to-interact-with-others" class="md-nav__link">
+    <span class="md-ellipsis">
+      You want to interact with others
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-are-open-minded-and-want-to-learn" class="md-nav__link">
+    <span class="md-ellipsis">
+      You are open-minded and want to learn
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-have-strong-interests-and-want-to-see-contents-relevant-to-them" class="md-nav__link">
+    <span class="md-ellipsis">
+      You have strong interests, and want to see contents relevant to them
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reasons-to-not-use-mastodon" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reasons to not use Mastodon
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Reasons to not use Mastodon">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#you-rely-on-network-effect-andor-monetization" class="md-nav__link">
+    <span class="md-ellipsis">
+      You rely on network effect and/or monetization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-only-follow-and-not-post" class="md-nav__link">
+    <span class="md-ellipsis">
+      You only follow and not post
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#you-want-to-act" class="md-nav__link">
+    <span class="md-ellipsis">
+      You want to act
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#some-discussions-on-others-arguments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Some discussions on others' arguments
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Some discussions on others' arguments">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#non-commercial" class="md-nav__link">
+    <span class="md-ellipsis">
+      Non-commercial
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#no-algorithm" class="md-nav__link">
+    <span class="md-ellipsis">
+      "No algorithm"
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#moderation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Moderation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#privacy" class="md-nav__link">
+    <span class="md-ellipsis">
+      Privacy
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="should-i-use-mastodon">Should I use Mastodon?</h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Please read the <a href="../prologue/">prologue</a> first for key assumptions that apply to this page.</p>
+</div>
+<h2 id="reasons-to-use-mastodon">Reasons to use Mastodon</h2>
+<h3 id="you-want-to-interact-with-others">You want to interact with others</h3>
+<p>From <a href="https://quantixed.org/2024/08/14/exodus-moving-to-mastodon/">Exodus: moving to Mastodon</a> by Stephen Royle:</p>
+<blockquote>
+<p>The platform is truly focussed around discussions and interactions. It is not about getting people fired up to argue with each other. I think this is the final hurdle with getting people to use Mastodon.</p>
+</blockquote>
+<p>Despite changing landscape after the Twitter exodus, this has been mostly held true.</p>
+<h3 id="you-are-open-minded-and-want-to-learn">You are open-minded and want to learn</h3>
+<p>The fediverse has many diverse perspectives. Although sharing similar universal values - that is, you are unlikely to meet someone that is holds <em>polar opposite</em> beliefs to you (because of general appeal of the fediverse, but also due to <a href="#no-algorithm">instance biases</a>), often you will find disagreements in some of their positions, mainly because they have different backgrounds, experiences, identities, etc. and:</p>
+<ul>
+<li>some attributes (eg. being racialized or queer) mean that by experience, they have differing opinions from the mainstream, and that you will usually not encounter them on conventional platforms; and</li>
+<li>some attributes imply different expertise or personal stake in topics they're involved in.</li>
+</ul>
+<p>Always assume there is something they know but you don't. Don't be a <a href="../best-practices/#reply-guy">reply guy</a>. </p>
+<p>Of course, that is not to say that others are always correct. Misinformation or extreme opinions can be developed (again, often for reasons you might agree with), and it is often difficult to challenge them. However, it is the author's opinion to advise new users to abide by the Golden Rule and consider the recipient's background, even in such scenarios.</p>
+<h3 id="you-have-strong-interests-and-want-to-see-contents-relevant-to-them">You have strong interests, and want to see contents relevant to them</h3>
+<p>If you have a specific niche hobby - eg. in arts, games (like tabletop ones), technology (like ham radio), etc. - that you invest a lot in, then using an instance catering to such may be beneficial to you. There are also instances catering to specific scientific communities.</p>
+<p>Unfortunately, for the vast majority of people who have no such interests, this does mean that content-wise, the fediverse may not be so different from conventional platforms, unless you intentionally work to discover such interests.</p>
+<h2 id="reasons-to-not-use-mastodon">Reasons to not use Mastodon</h2>
+<h3 id="you-rely-on-network-effect-andor-monetization">You rely on network effect and/or monetization</h3>
+<p>Unless you already have a large, loyal audience (eg. popular political commentators originating from Twitter) or, for businesses, you cater to niches (especially nerdy or artistic ones), it may be difficult to get traction, as traditional SEO techniques only apply loosely, and <a href="#you-want-to-interact-with-others">there is a consensus to interact genuinely</a>. Many users and administrators are also wary of monetization efforts.</p>
+<h3 id="you-only-follow-and-not-post">You only follow and not post</h3>
+<p>Many users are skeptical of others trying to follow them without filling out profile descriptions or writing any non-reply posts. Some insist that you must write an <code>#introduction</code>.</p>
+<h3 id="you-want-to-act">You want to act</h3>
+<p><a href="https://wingolog.org/archives/2024/09/24/fedi-is-for-losers">Mastodon is a bubble.</a> Sure, it is a more progressive bubble, but it is a bubble (well, more like many small bubbles inside a large bubble), like every other social media. This is especially so due to the prevailing moral convictions of the user bases. Owing to reputational concerns I will not elaborate further, but if you want to go out and change things, then go out and change things. No social media can replace concrete action.</p>
+<p>Donating to "mutual aid" campaigns on the fediverse is acting, but most of the discourse I've seen are in-group and thus not acting.</p>
+<h2 id="some-discussions-on-others-arguments">Some discussions on others' arguments</h2>
+<h3 id="non-commercial">Non-commercial</h3>
+<p>Most English-speaking instances are non-commercial and rely on donations. While in practice this has sustained for a long time, keep in mind that:</p>
+<ul>
+<li>Money can run dry, especially if the administrator experiences unexpected personal hardships;</li>
+<li>The fediverse has mostly survived due to non-enforcement of privacy &amp; content regulations, be it intentional or impracticality; in other words, should they ever be enforced, many instances may find themselves in legal limbo;</li>
+<li>Instances can still be acquired by commercial interests (eg. the sale of three Japanese-speaking instances to Suji Yan due to regulatory and financial problems).</li>
+</ul>
+<p>Furthermore, commercial actors in the fediverse are not unknown:</p>
+<ul>
+<li>Commercially-operated instances (like Threads, <code>me.dm</code> for Medium, etc.) and ActivityPub integrations of conventional platforms (like Flipboard and possibly Tumblr) exist;</li>
+<li>Certain non-profit efforts (eg. Nivenly) to improve aspects of the fediverse may be funded by commercial interests.</li>
+</ul>
+<p>...for which there are different opinions among users on the appropriate approach to them.</p>
+<p>All in all, the non-commercial nature of the fediverse is fragile and the legacy, while mostly positive, has some imperfections.</p>
+<h3 id="no-algorithm">"No algorithm"</h3>
+<p>There is little algorithmic personalization in the fediverse: the only known use of that is follow suggestions, which displays some follow-of-follow. You can use text-based filters or mute accounts to apply personalization.</p>
+<p>Most feeds are chronological (1), and the trending feed is based on total interaction counts seen on the instance, decayed by time. While the feeds are not strictly personalized (beyond explicit actions by the user), many fail to realize that by the structure of the ActivityPub protocol, they are biased by the instance's views of, and interactions with, the fediverse, which then reflects the user makeup of the instance. This could be beneficial in interest-specific instances, but might be detrimental in more general instances. <a href="#you-want-to-act">Ultimately this falls back to the general "echo chamber" nature of all social media platforms.</a></p>
+<p>{ .annotate }</p>
+<ol>
+<li>...which can be gamed using the scheduled post feature, but that's a different matter.</li>
+</ol>
+<h3 id="moderation">Moderation</h3>
+<p>You get to choose your instance, thereby choosing the moderation you're subject to, but:</p>
+<ul>
+<li>Moderation processes of most instances are not transparent, and it is difficult to determine their reputation beforehand, even more so when <a href="#no-algorithm">instance biases</a> empowers people to vigorously defend their own instances even in the face of serious allegations;</li>
+<li>When moderation controversies do arise, they tend to be <em>very serious</em>. See: <a href="https://mastodon.social/@lo__/114370692797365997">Fosstodon</a>, <a href="https://www.reddit.com/r/Mastodon/comments/10y6yb0/mastodonlol_instance_shutting_down_in_3_months/">mastodon.lol</a>, etc.</li>
+<li>Migrating your account is far from painless: you will leave behind your posts (1) and may lose followers due to difference in blocks or even network issues. It also takes a while to be able to refollow everyone, since some instances place limits on the ability for newly-created accounts to interact.</li>
+</ul>
+<p>{ .annotate }</p>
+<ol>
+<li>...save a certain Misskey fork that allows you to carry your posts with you</li>
+</ol>
+<h3 id="privacy">Privacy</h3>
+<p>Most fediverse instances do not attempt to analyze your behaviour and do not collect your data beyond what you explicitly provide. However, this requires you to trust your instance operator, since they can still see your personal information (email, IP addresses, etc.).</p>
+<p>The other, more invisible concern on privacy is to what extent third parties can collect or use your posts. Despite the technical and legal nature that public content is, well, public, many thinks that they have more control of their content than there really is. There is a strong consensus that <em>any</em> collection of public data, even in good faith (eg. to improve discoverability or interoperability), should require strict opt-in consent, notably <a href="https://github.com/snarfed/bridgy-fed/issues/835">on the controversy regarding Bridgy Fed's Bluesky bridge</a>. Developers insist on <a href="https://mastinator.com/apology/">protocol</a> <a href="https://mastodon.social/@akurilov/114343771754860533">design</a>, while users insist on the potential of misuse, with both sides often overreacting. In fact, Mastodon did not have search for many years due to the <a href="https://mastodon.social/@Gargron/4947733">belief</a> that full-text search supports harassment and, as you know, it was eventually implemented as an opt-in feature.</p>
+<p>Does it really protect privacy or is it just gesturing? Certainly none of the above protects a truly malicious party from using an ActivityPub instance to scrape everything, so there is certainly an overstatement of how much privacy people really have here.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "content.tooltips"], "search": "../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7c377c4.min.js"></script>
+      
+    
+  </body>
+</html>
