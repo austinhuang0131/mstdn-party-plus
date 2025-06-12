@@ -19,5 +19,6 @@ nav:
     - best-practices.md
   - 'Instance-specific information':
     - rules.md
+    - moderator.md
     - 'Miscellaneous': misc.md
     - 'For other federating instances': federation.md
