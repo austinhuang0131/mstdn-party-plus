@@ -45,9 +45,9 @@ You are required to:
 
 ## Operation
 
-Severity of moderation action should depend on severity of the infraction and the nature of the account.
+Severity of moderation action should depend on severity of the infraction and the nature of the account. However, do note that some users do not read warnings (due to poor design of some clients), and such you may choose to freeze an account to require them to acknowledge warnings, provided that you give reasonable time for them to respond, and that you do so respectfully (the users are often not at fault for not reading warnings).
 
-Appeals should be discussed among all moderators, myself included.
+Appeals should be discussed among all moderators, myself included. The only exceptions are appeals for actions taken by the webhook, which only needs a single moderator to reverse if the case is obvious enough.
 
 Moderators can read [Moderation at Hachyderm](https://community.hachyderm.io/docs/moderation/) to get a sense of community expectations. While it is not strictly our policy (and Hachyderm is not without controversies), it does fairly describe the spirit of moderating on Mastodon, and remember, you are required to make the instances good neighbours on the fediverse!
 
