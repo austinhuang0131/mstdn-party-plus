@@ -1,8 +1,10 @@
 # Welcome!
 
-My name is [Austin Huang](https://austinhuang.me) and I perform moderation for both instances on behalf of [Fediverse Communications LLC](https://fediverse.us/). This guide serves as information for prospective and current users on mstdn.party (aka. "Mastodon Party") and mstdn.plus (aka. "MSTDN+"), specifically with regards to moderation and best practices. This is a working document and may be amended at any time without notice.
+My name is [Austin Huang](https://austinhuang.me) and I perform moderation for both instances on behalf of [Fediverse Communications LLC](https://fediverse.us/).
 
-Last revised June 12, 2025.
+This guide serves as information for prospective and current users on mstdn.party (aka. "Mastodon Party") and mstdn.plus (aka. "MSTDN+"). Currently there are two sections. One serve as a general introduction to the fediverse, and the other contains various information specific to the two instances.
+
+This is a working document and may be amended at any time without notice.
 
 !!! note
 
@@ -14,12 +16,12 @@ Last revised June 12, 2025.
 
 !!! info
 
-    For moderation issues with the two instances, as well as contents of this guide, contact me:
+    For issues with the two instances, contact me:
 
     * On ActivityPub: [`@austin@mstdn.party`](https://mstdn.party/@austin)
     * On Matrix: [`@austin:tchncs.de`](https://matrix.to/#/@austin:tchncs.de)
 
-    For technical issues with the two instances, contact [Jonah Aragon](https://jonaharagon.com):
+    or [Jonah Aragon](https://jonaharagon.com):
 
     * On ActivityPub: [`@jonah@neat.computer`](https://mastodon.neat.computer/@jonah)
     * On Matrix: [`@jonah:neat.chat`](https://matrix.to/#/@jonah:neat.chat)

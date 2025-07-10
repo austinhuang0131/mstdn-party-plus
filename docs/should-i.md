@@ -78,7 +78,7 @@ All in all, the non-commercial nature of the fediverse is fragile and the legacy
 
 ### "No algorithm"
 
-There is little algorithmic personalization in the fediverse: the only known use of that is follow suggestions, which displays some follow-of-follow. You can use text-based filters or mute accounts to apply personalization.
+There is little algorithmic personalization in the fediverse: the only known use of that is follow suggestions, which displays some follow-of-follow. You can use [text-based filters](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) or mute accounts to apply personalization.
 
 Most feeds are chronological (1), and the trending feed is based on total interaction counts seen on the instance, decayed by time. While the feeds are not strictly personalized (beyond explicit actions by the user), many fail to realize that by [current technical implementations](https://axbom.com/mastodon-tips/#flowchart) result in that **the feeds are biased by the instance's views of, and interactions with, the fediverse, which then reflects the user makeup of the instance.** This could be beneficial in interest-specific instances, but might be detrimental in more general instances. [Ultimately this falls back to the general "echo chamber" nature of all social media platforms.](#you-want-to-act)
 { .annotate }
@@ -94,7 +94,7 @@ You get to choose your instance, thereby choosing the moderation you're subject 
 * Migrating your account is far from painless: you will leave behind your posts (1) and may lose followers due to difference in blocks or even network issues. It also takes a while to be able to refollow everyone, since some instances place limits on the ability for newly-created accounts to interact.
     { .annotate }
     
-    1. ...save a certain Misskey fork that allows you to carry your posts with you
+    1. ...save certain Misskey forks that allows you to carry your posts with you
 
 ### Privacy
 

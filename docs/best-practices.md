@@ -1,10 +1,28 @@
 # Best Practices
 
-To improve everyone's experience on the fediverse, I ask you to consider the following. Applying various advice below will likely improve how others view your account and the instances as a whole.
+To improve everyone's experience on the fediverse, you're encouraged to consider the following. Applying various advice below will likely improve how others view your account and the instances as a whole.
+
+!!! note
+
+    How you interact with others will shape their perceptions of you **and** your instance, so always remember that your actions will have consequences on your instance's reach!
 
 !!! warning
 
-    Those are not part of the rules, but in some cases they can be enforced.
+    For mstdn.party and mstdn.plus only: those are not part of the rules, but in some cases they can be enforced.
+
+## Tips for Initial Traction
+
+!!! note
+
+    Your bio is searchable if you have opted into the user directory, but hashtags don't particularly improve your profile's exposure. Note that certain platforms (such as bots that read `#nobot` hashtags, as well as [fediverse.info](https://fediverse.info/explore/people)) do make use of hashtags in bio.
+
+If you want to have more people discover your account, consider the following:
+
+* There are toggleable settings in Preferences => Public Profile => Privacy & Reach.
+* Outside of Mastodon itself, there are public user directories; see [here](how-to-follow.md#how-to-follow-people-and-content).
+* Use hashtags to allow people to better find your post (but please be mindful and not use hashtags excessively; also, for accessibility purposes, please use [CamelCase](https://en.wikipedia.org/wiki/Camel_case) for hashtagging phrases).
+* [Follow relevant hashtags](how-to-follow.md#how-to-follow-people-and-content) and [interact with other users](should-i.md#you-want-to-interact-with-others) (keep on reading for best practices for the latter).
+* Consider writing a [public](https://docs.joinmastodon.org/user/posting/#privacy) introduction post, indicating your interests in hashtags. Remember to include `#introduction` and pin the post as well!
 
 ## Politics
 
@@ -46,11 +64,10 @@ To prevent being seen as a "reply guy," consider:
 
 ## Content Warning
 
-While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that it actually drove people out of the fediverse. An overly-broad CW policy may also harm, rather than benefit, marginalized communities (whose entire experience can be considered "politics"). As such, we believe that it is best that we do not police it beyond the universal NSFW content. However, I ask you to:
+While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that it actually drove people out of the fediverse. An overly-broad CW policy may also harm, rather than benefit, marginalized communities (whose entire existence can be considered "politics"). On the other hand, it is a good idea to allow users to tune out certain content using the filter feature. As such, it is best that we do not police it beyond the universal NSFW content, but I recommend you to:
 
-1. Consider your target audience, and respect their norms (instance about page is a good starting point);
-2. Mention hashtags or keywords in the post so that people can [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) them without muting your entire account;
-3. Explicitly, and respectfully, seek feedback from your actual audience.
+1. Be considerate to your target audience, solicit their feedback and respect their norms (instance about page is a good starting point), and
+2. Mention hashtags or keywords in the post so that people can [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) them without muting your entire account.
 
 ## Alternative text
 
@@ -85,17 +102,3 @@ In cases where you may require assistance in writing the appropriate alt text, y
 !!! warning
 
     When encountering a post that does not contain alt text, one should either kindly provide one or signal it with `#Alt4Me`. Any attempt at harassing the author will be dealt with under [harassment](rules.md#no-harassment), [discrimination](rules.md#no-discrimination) or both.
-
-## Tips for Exposure
-
-!!! note
-
-    Your bio is searchable if you have opted into the user directory, but hashtags don't particularly improve your profile's exposure. Note that certain platforms (such as bots that read `#nobot` hashtags, as well as [fediverse.info](https://fediverse.info/explore/people)) do make use of hashtags in bio.
-
-If you want to have more people discover your account, consider the following:
-
-* There are toggleable settings in Preferences => Public Profile => Privacy & Reach.
-* Outside of Mastodon itself, there are public user directories like [Trunk](https://communitywiki.org/trunk) or [fediverse.info](https://fediverse.info/explore/people).
-* Use hashtags to allow people to better find your post (but please be mindful and not use hashtags excessively; also, for accessibility purposes, please use [CamelCase](https://en.wikipedia.org/wiki/Camel_case) for hashtagging phrases).
-* Follow relevant hashtags and interact with other users.
-* Consider writing a [public](https://docs.joinmastodon.org/user/posting/#privacy) introduction post, indicating your interests in hashtags. Remember to include `#introduction` and pin the post as well!

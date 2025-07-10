@@ -16,8 +16,18 @@ and/or users from...
 
 If you're not sure about your interests, `#introduction` is a good starting point.
 
+It is also [important](should-i.md#you-want-to-interact-with-others) that you interact with them. See [best practices](best-practices.md) before doing so.
+
 ## But there aren't that many posts on the hashtag I want!
 
-Try searching the same hashtag on another homeserver, like mastodon.social, or one specific to that interest.
+Try searching the same hashtag on another homeserver, such as larger ones like mastodon.social, or one specific to that interest if applicable.
 
 You can always interact with remote posts by copying the appropriate handle or post URL into the search box. There are also browser addons that facilitate the process, like [Mastodon: Simplified Federation](https://github.com/rugk/mastodon-simplified-federation).
+
+## But there are specific topics that I don't want to see!
+
+You should take advantage of the [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) feature. You can also mute other users if you wish to hide their posts in various feeds.
+
+!!! note
+
+    See [here](should-i.md#no-algorithm) for a deeper discussion on pitfalls of Mastodon's discoverability.
