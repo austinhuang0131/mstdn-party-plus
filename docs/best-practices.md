@@ -58,22 +58,30 @@ To prevent being seen as a "reply guy," consider:
 * Check out the other posts of the author. Do you really know more than them?
 * Have some humility. Do not assume that your opinion is superior to others.
 
+Also see [here](https://community.hachyderm.io/docs/hachyderm/mental-health/#collective-action-requires-a-collective) for what to ask yourself before interacting with potentially negative content.
+
 !!! warning
 
     Subject to severity, non-compliance to the above may result in a warning. Repeated or explicit non-compliance may result in a limit.
 
 ## Content Warning
 
-While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that it actually drove people out of the fediverse. An overly-broad CW policy may also harm, rather than benefit, marginalized communities (whose entire existence can be considered "politics"). On the other hand, it is a good idea to allow users to tune out certain content using the filter feature. As such, it is best that we do not police it beyond the universal NSFW content, but I recommend you to:
+Some things should unequivocally be behind content warnings, such as [NSFW content](rules.md#for-mstdnparty-and-most-other-generalist-instances) and violence. This will be enforced.
+
+While content warning is a useful feature to ensure personal well-being, discussions regarding what posts require content warning have been extremely fraught to the point that [it actually drove people out of the fediverse](https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt#got-yelled-at-felt-bad). An overly-broad CW policy may also harm, rather than benefit, marginalized communities (whose entire existence can be considered "politics"). On the other hand, it is a good idea to allow users to tune out certain content using the [filter](https://docs.joinmastodon.org/user/moderating/#filters) feature. As such, instead of a policy, I recommend you to:
 
 1. Be considerate to your target audience, solicit their feedback and respect their norms (instance about page is a good starting point), and
-2. Mention hashtags or keywords in the post so that people can [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) them without muting your entire account.
+2. Mention hashtags or keywords in the post so that people can filter them without muting your entire account.
 
 ## Alternative text
 
 !!! info
 
     See [here](https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/howtoalttext/) for how to add alt text onto attachments.
+
+!!! tip
+
+    See [here](https://community.hachyderm.io/docs/hachyderm/accessible-posts/) for more information on how to further incorporate accessibility into your posts.
 
 Alternative text is expected to give a description of a picture or a video to someone who may not be able to see or hear everything. It should **not** be a reiteration of your post content (unless the post content sufficiently describes the media), additional commentary, or a placeholder.
 

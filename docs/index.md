@@ -2,7 +2,7 @@
 
 My name is [Austin Huang](https://austinhuang.me) and I perform moderation for both instances on behalf of [Fediverse Communications LLC](https://fediverse.us/).
 
-This guide serves as information for prospective and current users on mstdn.party (aka. "Mastodon Party") and mstdn.plus (aka. "MSTDN+"). Currently there are two sections. One serve as a general introduction to the fediverse, and the other contains various information specific to the two instances.
+This guide serves as information for prospective and current users on mstdn.party (aka. "Mastodon Party") and mstdn.plus (aka. "MSTDN+"). Currently there are two sections. One serve as a general introduction to the fediverse, and the other contains various information specific to the two instances. You can see our pages on the sidebar.
 
 This is a working document and may be amended at any time without notice.
 

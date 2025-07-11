@@ -19,7 +19,7 @@ Generally speaking, punishments are adjusted to the severity of the offense as w
 
 ### For mstdn.party (and most other generalist instances)
 
-> Posts that contain nudity, sexually explicit, or violent content must be marked with an "NSFW" content warning and media marked as sensitive when posting
+> Posts that contain nudity, sexually explicit, or violent content must be marked with a content warning and media marked as sensitive when posting
 
 See [here](https://fedi.tips/how-to-use-content-warnings-cws-on-mastodon-and-the-fediverse/) for how to mark posts with a CW.
 
@@ -56,7 +56,7 @@ This often overlaps with the rule above, but note that this rule has no quantifi
 
 > No harassment, dogpiling or doxxing of other users
 
-This rule is written as it is on mastodon.social as well as many other generalist instances.
+This rule is written as it is on mastodon.social as well as many other generalist instances, but we interpret it widely here.
 
 [Subtooting](https://www.urbandictionary.com/define.php?term=subtoot) in bad faith (in particular, with the intent to ridicule or insult the person depicted) **is** considered harassment. If a person's behaviour is suspected to violate a rule, then please *report* them. Warning others of a remote account's undesirable behaviour (as mainly determined by the rules of this instance), if such behaviour is unaddressed by the remote instance, is generally not considered "in bad faith," but this is determined on a case-by-case basis.
 
@@ -64,11 +64,13 @@ Character assassination against those who reply due to disagreement **is** haras
 
 [Sealioning](https://en.wikipedia.org/wiki/Sealioning) **is** harassment.
 
+[Respect people's boundaries.](https://community.hachyderm.io/docs/hachyderm/mental-health/#create-and-maintain-interpersonal-boundaries) If you're asked to drop the conversation, drop it, even if you believe that the other party is violating rules (in which case you should not have started the conversation anyway, since the most appropriate action is to report it).
+
 ## No illegal content
 
 > No content illegal in the United States, Germany, or Finland 
 
-You're well aware of what the most common illegal content are; I should not need to explain this.
+You're well aware of what the most common illegal content is; I should not need to explain this.
 
 ## No disinformation
 
@@ -88,6 +90,8 @@ Automated posts should be unlisted, but to not create additional workload or dis
 * are bridges of their own accounts on other platforms (that is not ActivityPub).
 
 This applies to remote accounts as well (to lesser extent). For example, I limit `bots.krohsnest.com` as weather forecasts of specific locations are not in *general* public interest, though users who may still follow each account manually.
+
+Bots that cater to limited, closed audiences, or have no observable usage, will be removed at my discretion. If you have specific needs, consider running your own instance, or use other tools such as IFTTT.
 
 ## No Twitter bridges
 
@@ -117,9 +121,11 @@ I am not against non-English accounts using either instance, but regional instan
 
 > Do not spam or abuse network features.
 
-Spam includes excessive posts, favourites/boosts, and reports. "Abuse of network features" include sockpuppeting (posting the same content on multiple ActivityPub accounts), intentional disrespect of user features (using typos to bypass keyword filters), automated block detection, etc.
+Spam includes excessive posts, favourites/boosts, and reports. "Abuse of network features" include sockpuppeting (posting the same content on multiple ActivityPub accounts), intentional disrespect of user features (using typos to bypass [keyword filters](https://docs.joinmastodon.org/user/moderating/#filters)), automated block detection, etc.
 
 Business accounts are permitted, provided that they are created by the firm themselves (no SEO) and post at reasonable frequencies.
+
+Generally, accounts used for the *sole* purpose of personal fundraising are prohibited, as some engage in spam activities that cast the authenticity of their campaigns into doubt.
 
 ## Mastodon Server Covenant
 

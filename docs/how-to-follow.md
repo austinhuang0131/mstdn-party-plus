@@ -20,13 +20,13 @@ It is also [important](should-i.md#you-want-to-interact-with-others) that you in
 
 ## But there aren't that many posts on the hashtag I want!
 
-Try searching the same hashtag on another homeserver, such as larger ones like mastodon.social, or one specific to that interest if applicable.
+Try searching the same hashtag on another homeserver, such as larger ones like mastodon.social, or one specific to that interest if applicable. Feel free to ask me for instance recommendations if you need pointers.
 
 You can always interact with remote posts by copying the appropriate handle or post URL into the search box. There are also browser addons that facilitate the process, like [Mastodon: Simplified Federation](https://github.com/rugk/mastodon-simplified-federation).
 
 ## But there are specific topics that I don't want to see!
 
-You should take advantage of the [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) feature. You can also mute other users if you wish to hide their posts in various feeds.
+You should take advantage of the [filter](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) feature. You can also mute other users if you wish to hide their posts in various feeds. Also see [here](https://docs.joinmastodon.org/user/moderating/) for a more comprehensive overview of how to *not* see certain content.
 
 !!! note
 

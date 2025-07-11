@@ -22,7 +22,7 @@ Despite changing landscape after the Twitter exodus, this has been mostly held t
 
 ### You are open-minded and want to learn
 
-The fediverse has many diverse perspectives. Although sharing similar universal values - that is, you are unlikely to meet someone that is holds *polar opposite* beliefs to you (because of general appeal of the fediverse, but also due to [instance biases](#no-algorithm)), often you will find disagreements in some of their positions, mainly because they have different backgrounds, experiences, identities, etc. and:
+The fediverse has many diverse perspectives. Although sharing similar universal values - that is, you are unlikely to meet someone that holds *polar opposite* beliefs to you (because of general appeal of the fediverse, but also due to [instance biases](#no-algorithm)), often you will find disagreements in some of their positions, mainly because they have different backgrounds, experiences, identities, etc. and:
 
 * some attributes (eg. being racialized or queer) mean that by experience, they have differing opinions from the mainstream, and that you will usually not encounter them on conventional platforms; and
 * some attributes imply different expertise or personal stake in topics they're involved in;
@@ -30,7 +30,7 @@ The fediverse has many diverse perspectives. Although sharing similar universal 
 
 Always assume there is something they know but you don't. Don't be a [reply guy](best-practices.md#reply-guy). 
 
-Of course, that is not to say that others are always correct. Misinformation or extreme opinions can be developed (again, [often for reasons you might agree with](#no-algorithm)), and it is often difficult to challenge them. However, it is the author's opinion to advise new users to abide by the Golden Rule and consider the recipient's background, even in such scenarios.
+Of course, that is not to say that others are always correct. Misinformation or extreme opinions can be developed (often for reasons you might agree with!), and it is often difficult to challenge them. However, it is the author's opinion to advise new users to abide by the [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) and consider the recipient's background, even in such scenarios. That doesn't mean you have to compromise on your point, but that does mean you should be respectful about it.
 
 ### You have strong interests, and want to see contents relevant to them
 
