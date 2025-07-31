@@ -10,20 +10,6 @@ To improve everyone's experience on the fediverse, you're encouraged to consider
 
     For mstdn.party and mstdn.plus only: those are not part of the rules, but in some cases they can be enforced.
 
-## Tips for Initial Traction
-
-!!! note
-
-    Your bio is searchable if you have opted into the user directory, but hashtags don't particularly improve your profile's exposure. Note that certain platforms (such as bots that read `#nobot` hashtags, as well as [fediverse.info](https://fediverse.info/explore/people)) do make use of hashtags in bio.
-
-If you want to have more people discover your account, consider the following:
-
-* There are toggleable settings in Preferences => Public Profile => Privacy & Reach.
-* Outside of Mastodon itself, there are public user directories; see [here](how-to-follow.md#how-to-follow-people-and-content).
-* Use hashtags to allow people to better find your post (but please be mindful and not use hashtags excessively; also, for accessibility purposes, please use [CamelCase](https://en.wikipedia.org/wiki/Camel_case) for hashtagging phrases).
-* [Follow relevant hashtags](how-to-follow.md#how-to-follow-people-and-content) and [interact with other users](should-i.md#you-want-to-interact-with-others) (keep on reading for best practices for the latter).
-* Consider writing a [public](https://docs.joinmastodon.org/user/posting/#privacy) introduction post, indicating your interests in hashtags. Remember to include `#introduction` and pin the post as well!
-
 ## Politics
 
 The instance respects free speech [within reasonable, well-established limits](rules.md). However, I still want to dissuade those from constantly repeating political headlines, specifically the perceived wrongs of certain political figures or geopolitical forces, with little substance. In particular:
@@ -88,6 +74,8 @@ Alternative text is expected to give a description of a picture or a video to so
 Good alt text is essential for people, especially those with disabilities, who use screen readers or require additional context to consume content. Also, adding alt text allows you to reflect on your post before sending it, and since alt text is searchable, it allows for better reach for your content.
 
 See [Alt Text Hall of Fame](https://alttexthalloffame.org/en/) for examples on how to write a good alt text.
+
+[Altbot](https://fuzzies.wtf/@altbot) can be used to generate alt text for you.
 
 !!! tip
 

@@ -12,6 +12,7 @@ markdown_extensions:
   - md_in_html
 nav:
   - index.md
+  - cheatsheet.md
   - 'Another Guide to Mastodon':
     - prologue.md
     - should-i.md
