@@ -100,8 +100,8 @@ If you want to have more people discover your account, consider the following:
 
 * There are toggleable settings in Preferences => Public Profile => Privacy & Reach.
 * Outside of Mastodon itself, there are public user directories; see [here](how-to-follow.md#how-to-follow-people-and-content).
-* [Follow relevant hashtags](how-to-follow.md#how-to-follow-people-and-content) and [interact with other users](should-i.md#you-want-to-interact-with-others) (keep on reading for best practices for the latter).
-* Consider writing an introduction post.
+* [Follow relevant hashtags](how-to-follow.md#how-to-follow-people-and-content) and [interact with other users](should-i.md#you-want-to-interact-with-others) (keep on reading for best practices for the latter). Others need to know you're there before they will consider to follow you.
+* Write an introduction post.
 
 #### I need to write an introduction?
 
