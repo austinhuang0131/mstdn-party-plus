@@ -1,6 +1,6 @@
 # Moderator Information
 
-As of now we're looking for around 3 new moderators.
+We're in the process of appointing the first cohort of moderators, but we welcome anyone to apply on an ongoing basis.
 
 ## Eligibility
 
@@ -38,7 +38,7 @@ The optional responsibilities are:
 * Welcoming new users and aiding them in using our instances; and
 * Engaging in policy discussions, should rule changes are warranted.
 
-The welcoming part can be done at your pleasure (you have some creative freedom in how to do so); the rest is, in principle, on an ad hoc basis.
+The welcoming part can be done at your pleasure (you have some creative freedom in how to do so, and you can also link to relevant pages in this guide or other guides); the rest is, in principle, on an ad hoc basis.
 
 You are required to:
 
