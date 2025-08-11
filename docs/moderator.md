@@ -1,6 +1,15 @@
 # Moderator Information
 
-We're in the process of appointing the first cohort of moderators, but we welcome anyone to apply on an ongoing basis.
+For mstdn.party, the moderators are:
+
+* [@fuegon](https://mstdn.party/@fuegon)
+* [@leafuw](https://mstdn.party/@leafuw)
+
+For mstdn.plus, the moderator is:
+
+* [@jnye](https://mstdn.plus/@jnye)
+
+We welcome anyone to apply on an ongoing basis, but we are not actively looking for moderators right now.
 
 ## Eligibility
 
