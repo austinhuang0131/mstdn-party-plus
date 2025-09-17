@@ -5,7 +5,7 @@ Search liberally. You can follow users *and* hashtags so that content shows up i
 You can also follow aggregators from...
 
 * [Newsmast Community Feeds](https://newsmast.community/about): each account boost posts matching a specific set of hashtags across a variety of instances. This is probably the closest equivalent to Bluesky feeds.
-* ~~Guppe groups: groups that boost posts that pings the group account. Handles are `@{group_name}@a.gup.pe`.~~ **Update:** The domain has been [hijacked](https://github.com/immers-space/guppe/issues/118#issuecomment-3263730414).
+* <del>Guppe groups: groups that boost posts that pings the group account. Handles are `@{group_name}@a.gup.pe`.</del> **Update:** The domain has been [hijacked](https://github.com/immers-space/guppe/issues/118#issuecomment-3263730414).
     * [FediGroups.social](https://about.fedigroups.social/directory): alternative to the above.
     * [ovo.st](https://ovo.st/): the equivalent for the Chinese diaspora. Handles are `@{group_name}@ovo.st`.
 
