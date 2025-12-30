@@ -354,15 +354,6 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#theres-no-quote-posts" class="md-nav__link">
-    <span class="md-ellipsis">
-      There's no quote posts?
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
@@ -430,15 +421,6 @@
   <a href="#why-cant-i-see-everyone-that-boostedfavourited" class="md-nav__link">
     <span class="md-ellipsis">
       Why can't I see everyone that boosted/favourited?
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#why-cant-i-see-every-reply" class="md-nav__link">
-    <span class="md-ellipsis">
-      Why can't I see every reply?
     </span>
   </a>
   
@@ -855,15 +837,6 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#theres-no-quote-posts" class="md-nav__link">
-    <span class="md-ellipsis">
-      There's no quote posts?
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
@@ -931,15 +904,6 @@
   <a href="#why-cant-i-see-everyone-that-boostedfavourited" class="md-nav__link">
     <span class="md-ellipsis">
       Why can't I see everyone that boosted/favourited?
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#why-cant-i-see-every-reply" class="md-nav__link">
-    <span class="md-ellipsis">
-      Why can't I see every reply?
     </span>
   </a>
   
@@ -1028,7 +992,7 @@
 <p>There is <strong>no</strong> account-wide visibility. You can use <a href="https://fedi.tips/deleting-posts-automatically-in-mastodon-after-a-certain-time-period/">automated post deletion</a> but the previous warning still applies.</p>
 </div>
 <h4 id="who-actually-will-see-my-public-post">Who actually will see my public post?</h4>
-<p>For each instance you can go through <a href="https://axbom.com/mastodon-tips/#flowchart">this flowchart</a>, but in summary: users on an instance will only see your post if the instance is aware of it, and the awareness generally requires someone being actively aware of you (usually by following). This is why it is very important to interact with others.</p>
+<p>For each instance you can go through <a href="https://axbom.com/mastodon-tips/#flowchart">this flowchart</a>, but in summary: users on an instance will only see your post if the instance is aware of it, and the awareness generally requires someone being actively aware of you (usually by following or by fetching from a thread). This is why it is very important to interact with others.</p>
 <h4 id="how-can-i-get-more-people-to-see-my-post">How can I get more people to see my post?</h4>
 <p>See <a href="#basics-of-interaction">basics of interaction</a>. In terms of the post itself, consider:</p>
 <ul>
@@ -1064,9 +1028,6 @@
 </div>
 <h4 id="what-is-alt-text">What is alt text?</h4>
 <p>Alt texts are generally used for visually-impaired users to help understanding your media. When you compose a post, you're <a href="https://docs.joinmastodon.org/user/posting/#media">prompted</a> to add an alt text to describe them. This is commonly adopted on Mastodon, and while you are not obligated by rules, writing them often facilitates interactions. See <a href="../best-practices/#alternative-text">here</a> for more information and ways to help you write one.</p>
-<h4 id="theres-no-quote-posts">There's no quote posts?</h4>
-<p>...for now.</p>
-<p>There has been some conflicts over implementing quote posts, and the jury is still out on this one, but it will not be implemented before v4.5.0 and even then there will be access controls.</p>
 <h2 id="basics-of-interaction">Basics of Interaction</h2>
 <h3 id="tips-for-initial-traction">Tips for Initial Traction</h3>
 <div class="admonition note">
@@ -1096,11 +1057,14 @@
 <p>If you want to give a post more reach, then the appropriate action is to boost. However the decision rests with you.</p>
 <h4 id="why-cant-i-see-everyone-that-boostedfavourited">Why can't I see everyone that boosted/favourited?</h4>
 <p>Unless the post is authored from the instance, an instance can only see boosts/favourites that it sees. For boosts see <a href="#who-actually-will-see-my-public-post">here</a>; for favourites it's only those from users on the instance.</p>
-<h4 id="why-cant-i-see-every-reply">Why can't I see every reply?</h4>
-<p>Again, <a href="#who-actually-will-see-my-public-post">federation</a>. While thread fetching has somewhat been improved recently, it is still important to keep this in mind.</p>
 <h3 id="anything-i-need-to-know-before-i-reply">Anything I need to know before I reply?</h3>
 <ul>
-<li>You might not see the bigger picture. Try opening the original page for the post to see<ul>
+<li>If not all replies are shown...<ul>
+<li>Wait for the instance to fetch the thread (it takes a few seconds and the web interface will show "More replies found"; on other clients you will need to refresh the post manually), or</li>
+<li>Open the original page.</li>
+</ul>
+</li>
+<li>Read the room. Be mindful of<ul>
 <li>the context (the author's profile can also be important); and</li>
 <li>whether what you're about to reply is already there;</li>
 </ul>
