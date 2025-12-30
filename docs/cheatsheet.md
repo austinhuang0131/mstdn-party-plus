@@ -38,7 +38,7 @@ There are [additional considerations](https://docs.joinmastodon.org/user/posting
 
 #### Who actually will see my public post?
 
-For each instance you can go through [this flowchart](https://axbom.com/mastodon-tips/#flowchart), but in summary: users on an instance will only see your post if the instance is aware of it, and the awareness generally requires someone being actively aware of you (usually by following). This is why it is very important to interact with others.
+For each instance you can go through [this flowchart](https://axbom.com/mastodon-tips/#flowchart), but in summary: users on an instance will only see your post if the instance is aware of it, and the awareness generally requires someone being actively aware of you (usually by following or by fetching from a thread). This is why it is very important to interact with others.
 
 #### How can I get more people to see my post?
 
@@ -82,12 +82,6 @@ You are urged to consider your audience's viewing preferences when determining w
 
 Alt texts are generally used for visually-impaired users to help understanding your media. When you compose a post, you're [prompted](https://docs.joinmastodon.org/user/posting/#media) to add an alt text to describe them. This is commonly adopted on Mastodon, and while you are not obligated by rules, writing them often facilitates interactions. See [here](best-practices.md#alternative-text) for more information and ways to help you write one.
 
-#### There's no quote posts?
-
-...for now.
-
-There has been some conflicts over implementing quote posts, and the jury is still out on this one, but it will not be implemented before v4.5.0 and even then there will be access controls.
-
 ## Basics of Interaction
 
 ### Tips for Initial Traction
@@ -128,13 +122,12 @@ If you want to give a post more reach, then the appropriate action is to boost. 
 
 Unless the post is authored from the instance, an instance can only see boosts/favourites that it sees. For boosts see [here](#who-actually-will-see-my-public-post); for favourites it's only those from users on the instance.
 
-#### Why can't I see every reply?
-
-Again, [federation](#who-actually-will-see-my-public-post). While thread fetching has somewhat been improved recently, it is still important to keep this in mind.
-
 ### Anything I need to know before I reply?
 
-* You might not see the bigger picture. Try opening the original page for the post to see
+* If not all replies are shown...
+    * Wait for the instance to fetch the thread (it takes a few seconds and the web interface will show "More replies found"; on other clients you will need to refresh the post manually), or
+    * Open the original page.
+* Read the room. Be mindful of
     * the context (the author's profile can also be important); and
     * whether what you're about to reply is already there;
 * Respect people's boundaries;

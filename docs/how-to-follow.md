@@ -2,16 +2,19 @@
 
 Search liberally. You can follow users *and* hashtags so that content shows up in your home timeline.
 
-You can also follow aggregators from...
+You can also use...
 
-* [Newsmast Community Feeds](https://newsmast.community/about): each account boost posts matching a specific set of hashtags across a variety of instances. This is probably the closest equivalent to Bluesky feeds.
-* <del>Guppe groups: groups that boost posts that pings the group account. Handles are `@{group_name}@a.gup.pe`.</del> **Update:** The domain has been [hijacked](https://github.com/immers-space/guppe/issues/118#issuecomment-3263730414).
-    * [FediGroups.social](https://about.fedigroups.social/directory): alternative to the above.
+* Aggregator accounts:
+    * [Newsmast Community Feeds](https://newsmast.community/about): each account boost posts matching a specific set of hashtags across a variety of instances.
+    * [tagpush.app](https://tagpush.app): see [here](https://verbamea.com/4dd1a1ca55) for the topics.
+    * [#FediBuzz Relay](https://relay.fedi.buzz): `@tag-[hashtag]@relay.fedi.buzz` follows a hashtag and `@instance-[example.com]@relay.fedi.buzz` follows an instance's local timeline (please only follow small instances). Since fedi.buzz pulls data from multiple instances, their hashtag feed can be better than simply following the hashtag through the instance.
+* "Groups" will boost posts that mention them. There are:
+    * [FediGroups.social](https://about.fedigroups.social/directory)
     * [ovo.st](https://ovo.st/): the equivalent for the Chinese diaspora. Handles are `@{group_name}@ovo.st`.
-
-and/or users from...
-
-* External user directories, such as [Trunk](https://communitywiki.org/trunk), [Fedi.directory](https://fedi.directory), and [fediverse.info](https://fediverse.info/explore/people).
+* External user directories:
+    * [Trunk](https://communitywiki.org/trunk)
+    * [Fedi.directory](https://fedi.directory)
+    * [fediverse.info](https://fediverse.info/explore/people)
 
 ...and simply copy the appropriate handle into the search box to follow it.
 
@@ -24,6 +27,8 @@ It is also [important](should-i.md#you-want-to-interact-with-others) that you in
 Try searching the same hashtag on another homeserver, such as larger ones like mastodon.social, or one specific to that interest if applicable. Feel free to ask me for instance recommendations if you need pointers.
 
 You can always interact with remote posts by copying the appropriate handle or post URL into the search box. There are also browser addons that facilitate the process, like [Mastodon: Simplified Federation](https://github.com/rugk/mastodon-simplified-federation).
+
+Alternatively you can use FediBuzz which was mentioned above.
 
 ## But there are specific topics that I don't want to see!
 
