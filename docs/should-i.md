@@ -50,11 +50,11 @@ You can, however, use hashtags to increase your posts' visibility.
 
 Many users are skeptical of others trying to follow them without filling out profile descriptions or writing any non-reply posts. Some insist that you must write an `#introduction` or fill out your bio.
 
-### You want to act
+For news, using an RSS reader could be a good alternative. Note that a Mastodon account's public post feed can be converted to an RSS by adding `.rss` at the end (e.g. `https://mstdn.party/@austin.rss`).
 
-[Mastodon is a bubble.](https://wingolog.org/archives/2024/09/24/fedi-is-for-losers) Sure, it is a more progressive bubble, but it is a bubble (well, more like many small bubbles inside a large bubble), like every other social media. This is especially so due to the prevailing moral convictions of the user bases. Owing to reputational concerns I will not elaborate further, but if you want to go out and change things, then go out and change things. No social media can replace concrete action.
+### You just don't like the vibe
 
-Donating to "mutual aid" campaigns on the fediverse is acting; discourse is not.
+The Fediverse is... [different](https://wingolog.org/archives/2024/09/24/fedi-is-for-losers). And it might not be for you, even if you're well-intentioned. In a way the platform can be disconnected from the mainstream reality at times, and it can come as a shock to people (like [reply hesitations](https://oslo.town/@luftvaffel/115300229971976683)). That's fine - it takes time - but it's best to keep this in mind as you consider whether you should use Mastodon or not.
 
 ## Some discussions on others' arguments
 
@@ -80,7 +80,7 @@ All in all, the non-commercial nature of the fediverse is fragile and the legacy
 
 There is little algorithmic personalization in the fediverse: the only known use of that is follow suggestions, which displays some follow-of-follow. You can use [text-based filters](https://fedi.tips/filtering-your-timeline-to-hide-posts-on-mastodon/) or mute accounts to apply personalization.
 
-Most feeds are chronological (1), and the trending feed is based on total interaction counts seen on the instance, decayed by time. While the feeds are not strictly personalized (beyond explicit actions by the user), many fail to realize that by [current technical implementations](https://axbom.com/mastodon-tips/#flowchart) result in that **the feeds are biased by the instance's views of, and interactions with, the fediverse, which then reflects the user makeup of the instance.** This could be beneficial in interest-specific instances, but might be detrimental in more general instances. [Ultimately this falls back to the general "echo chamber" nature of all social media platforms.](#you-want-to-act)
+Most feeds are chronological (1), and the trending feed is based on total interaction counts seen on the instance, decayed by time. While the feeds are not strictly personalized (beyond explicit actions by the user), many fail to realize that by [current technical implementations](https://axbom.com/mastodon-tips/#flowchart) result in that **the feeds are biased by the instance's views of, and interactions with, the fediverse, which then reflects the user makeup of the instance.** This could be beneficial in interest-specific instances, but might be detrimental in more general instances. [Ultimately this falls back to the general "echo chamber" nature of all social media platforms.](#you-just-dont-like-the-vibe)
 { .annotate }
 
 1. ...which can be gamed using the scheduled post feature, but that's a different matter.

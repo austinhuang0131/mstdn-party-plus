@@ -34,11 +34,11 @@ There is a lot of misconception on the exact benefits of fediverse or the mainst
 
 ### Offer some advice on improving your experience
 
-Discussions of techniques to [find people/content to follow](how-to-follow.md) and [best practices in interacting](best-practices.md).
+Starting with a [cheatsheet](cheatsheet.md) for quick reference on interactions, this section contains discussions of techniques to [find people/content to follow](how-to-follow.md) and [best practices in interacting](best-practices.md).
 
 ## Non-scope of this guide
 
-This guide will not address certain topics that are commonly present in [other guides](#other-guides):
+This guide will not address certain topics that are commonly present in [other guides](#other-resources):
 
 ### Reiterate technical definitions of the Fediverse
 

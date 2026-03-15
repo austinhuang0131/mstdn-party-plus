@@ -5,11 +5,12 @@ For mstdn.party, the moderators are:
 * [@fuegon](https://mstdn.party/@fuegon)
 * [@leafuw](https://mstdn.party/@leafuw)
 
-For mstdn.plus, the moderator is:
+For mstdn.plus, the moderators are:
 
+* [@gcvsa](https://mstdn.plus/@gcvsa)
 * [@jnye](https://mstdn.plus/@jnye)
 
-We welcome anyone to apply on an ongoing basis, but we are not actively looking for moderators right now.
+We welcome anyone to apply on an ongoing basis.
 
 ## Eligibility
 
